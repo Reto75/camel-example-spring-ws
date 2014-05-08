@@ -33,3 +33,5 @@ Enjoy!
 
 ------------------------
 The Camel riders!
+
+Added some test endpoints to drop the request and response payloads to files as well as a basic use of the apache log4j logger.
